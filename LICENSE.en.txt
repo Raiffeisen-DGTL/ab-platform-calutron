@@ -1,0 +1,282 @@
+LICENSE AGREEMENT
+FOR THE USE OF
+THE «Calutron» A/B TESTING PLATFORM (THE "AGREEMENT")
+
+This Agreement, pursuant to Article 1286 of the Civil Code of the Russian
+Federation, is a license agreement between JSC Raiffeisenbank (PSRN
+1027739326449, INN 7744000302, registered address: 28 Smolenskaya-Sennaya
+Square, Arbat municipal district, Moscow, 119002, Russian Federation)
+(hereinafter - the "Licensor") and a person (natural or legal)
+(hereinafter - the "User") who has proposed to conclude the Agreement
+in the manner established herein. The Licensor and the User are
+hereinafter referred to jointly as the "Parties".
+
+The Parties have concluded this Agreement as follows.
+
+1. Subject Matter of the Agreement and Procedure for Its Conclusion
+
+1.1. The Agreement defines the terms and procedure for the use of the
+source code of the «Calutron» A/B Testing Platform (hereinafter - the
+"Software"). The Agreement constitutes an invitation to make offers and
+is not a public offer. The User's performance of the actions specified
+in Clause 1.3 of the Agreement shall be deemed the User's offer to
+conclude the Agreement on the terms set forth herein, taking into account
+the territory of use of the Software proposed by the User.
+
+1.2. The rights to use the Software under this Agreement may be granted
+to a person (natural or legal) who has expressed the intention to
+conclude the Agreement and has passed the Licensor's review in the manner
+provided for in Clauses 1.3 - 1.5 of the Agreement.
+
+1.3. To conclude the Agreement, the User shall submit an application
+in the manner published by the Licensor at
+https://github.com/Raiffeisen-DGTL/ab-platform-calutron/ACCESS.md.
+Submission of the application constitutes the User's offer to accede
+to the Agreement.
+
+1.4. The Licensor shall review the application and, within a reasonable
+time, decide whether to grant the right to use the Software (acceptance)
+or to refuse such grant without giving any reasons.
+
+1.5. The Agreement shall be deemed concluded as of the moment the
+Licensor sends the User a notification of the successful completion
+of the review and grants access to the Software, including by granting
+access to a private repository and/or providing a download link
+(hereinafter - "Activation"). Failure to respond to an offer does not
+constitute acceptance. Downloading and using the Software prior to
+Activation, as provided for in this Clause of the Agreement, is not
+permitted.
+
+1.6. Before downloading the Software and starting to use it, the User
+shall carefully review the terms of this Agreement. If the User disagrees
+with any of the terms of this Agreement, the User must not download
+or use the Software.
+
+1.7. Under this Agreement, the Licensor grants the User, free of charge,
+for the entire term of this Agreement, the right to use the Software
+under a simple (non-exclusive) license in the territory specified by
+the User pursuant to Clause 1.3 of the Agreement.
+
+1.8. The right to use the Software granted to the User under this
+Agreement includes the use of the Software in the following ways:
+reproduction of the Software, adaptation, modification, incorporation
+of the Software into the User's own commercial and non-commercial
+products (computer programs) and use of the Software within such
+derivative products (subject to the restrictions provided for in this
+Agreement), as well as use of the Software for its functional purpose
+described at https://github.com/Raiffeisen-DGTL/ab-platform-calutron.
+The functionality of the Software may be changed at any time at the
+Licensor's discretion.
+
+1.9. All intellectual property rights in the Software belong to the
+Licensor in full. The User shall not use the Software in any manner other
+than as provided for in the Agreement without the Licensor's prior
+written permission. Nothing in this Agreement grants the User any rights
+to any results of intellectual activity owned by the Licensor, except
+as expressly provided for in this Agreement. For any use of the Software
+(in whole or in part, including within derivative products) that may
+involve disclosure of the Software to third parties, the User shall
+indicate that the Software or part thereof belongs to the Licensor.
+
+2. User's Warranties
+
+2.1. The User warrants that it has the legal capacity necessary to conduct
+its activities and to conclude and perform this Agreement.
+
+2.2. The conclusion of this Agreement does not violate the User's rights
+and obligations towards third parties, nor the applicable laws of the
+Russian Federation.
+
+2.3. The User has obtained all consents and permissions required by
+applicable law to conclude this Agreement.
+
+2.4. The User warrants that it will not use the Software to perform
+actions prohibited or restricted by international and/or Russian law.
+
+3. Terms of Use of the Software and Restrictions
+
+3.1. The User shall:
+- not distribute the Software, in whole or in part (except for
+  distribution within derivative products; distribution within derivative
+  products is permitted without disclosing the source code of the Software
+  to third parties, or by imposing on third parties who may gain access
+  to the source code obligations of confidentiality and a prohibition
+  on further transfer of the Software), and not use the Software beyond
+  the methods of use provided for in this Agreement;
+- not use hardware, software or other means to circumvent or remove
+  technical protection measures used by the Software;
+- not perform any other actions capable of causing damage to the
+  Software, the Licensor or third parties.
+
+3.2. Any actions not expressly permitted to the User by this Agreement
+or by the laws of the Russian Federation are prohibited.
+
+4. Liability of the Parties
+
+4.1. The Licensor warrants that it will make all reasonable efforts to
+ensure the stable operation of the Software; however, the Software is
+provided to the User on an "as is" basis, which means that the Licensor:
+- gives no warranty that all functional capabilities of the Software
+  will fully meet the User's expectations, needs and views or be suitable
+  for the User's purposes;
+- provides no express or implied warranties as to operability, fitness
+  for a particular purpose, completeness or freedom from errors;
+- is not liable for the uninterrupted operation of the Software,
+  the absence of errors in its operation, or its compatibility with
+  the User's software and hardware.
+
+4.2. The User has carefully reviewed the functional purpose of the
+Software. The Licensor is not liable for any failure of the Software
+to meet the User's needs, for improper functioning of the Software on
+the User's equipment and software, and the Licensor is not liable for
+any damages, including but not limited to: direct, indirect, incidental
+damage, lost profits, loss or loss of data or profits associated with
+the use of or the inability to use the Software.
+
+4.3. The User is solely and fully responsible for configuring its
+hardware, operating system and other tools.
+
+4.4. The Licensor does not perform diagnostics of problems on the User's
+side and is not liable for the inability to use the Software.
+
+4.5. The User is solely responsible for its actions when using
+the Software.
+
+4.6. If the User's conclusion of this Agreement and/or the User's
+performance of any actions with the Software gives rise to claims, lawsuits
+and/or orders to pay fines against the Licensor from state authorities
+and/or any third parties, the User shall, upon the Licensor's request,
+immediately provide the Licensor with all requested information concerning
+this Agreement. The User shall, independently and at its own expense,
+settle all such claims, lawsuits and orders brought against the Licensor,
+and where such settlement by the User is not possible by law, shall assist
+the Licensor in settling such claims and lawsuits, and hereby warrants
+and represents that it will indemnify the Licensor for any losses
+(including legal costs and fines) incurred by the Licensor as a result
+of such claims, lawsuits and orders brought against it in connection
+with violations of third-party rights and/or the laws of the Russian
+Federation arising from the performance of obligations under this
+Agreement.
+
+4.7. Under any circumstances, the Licensor's liability arises only upon
+proof of fault in its actions/omissions, and such liability is limited
+to RUB 100 (one hundred) or the equivalent in a foreign currency at
+the exchange rate of the Central Bank of the Russian Federation.
+
+4.8. In the event of the User's breach of any provision of this Agreement,
+the Licensor may, immediately and without prior notice to the User,
+suspend the User's access to the Software until the breach is remedied.
+The Licensor is not liable for any losses the User may incur as a result
+of such suspension.
+
+5. Governing Law and Dispute Resolution
+
+5.1. This Agreement and the relations arising from it are governed by
+the laws of the Russian Federation.
+
+5.2. All disputes and disagreements arising out of or in connection with
+this Agreement shall be resolved through the claims procedure. The
+pre-trial claims procedure is mandatory; the period for consideration
+of a claim is 30 (thirty) calendar days from the date of its receipt.
+If no agreement is reached, the dispute shall be considered by the Moscow
+Arbitration Court or the Presnensky District Court of Moscow (depending
+on whether the dispute falls within the jurisdiction of arbitration
+courts or courts of general jurisdiction) in accordance with the laws
+of the Russian Federation.
+
+6. Entry into Force and Termination of the Agreement
+
+6.1. This Agreement enters into force upon Activation and remains in
+effect for the entire term of the exclusive rights to the Software or
+until terminated (whichever occurs first).
+
+6.2. The User may terminate this Agreement at any time by sending notice
+to the Licensor and completely deleting the Software in accordance with
+Clause 6.4.
+
+6.3. In the event of the User's breach of any provision of this Agreement,
+the Licensor may terminate this Agreement unilaterally and out of court,
+notifying the User 1 (one) calendar day before the termination date,
+if the User fails to remedy the breach within 5 (five) calendar days
+of its occurrence.
+
+6.4. Upon termination of this Agreement for any reason, the User shall
+cease using the Software completely and destroy all copies of the Software
+within 90 calendar days, during which the terms of use of the Software
+set out in this Agreement shall continue to apply.
+
+7. Miscellaneous
+
+7.1. The Licensor may unilaterally amend and/or supplement this Agreement.
+The new version shall take effect 5 (five) calendar days after its
+publication at https://github.com/Raiffeisen-DGTL/ab-platform-calutron.
+The User shall independently monitor changes and review all provisions
+of the Agreement in due time. Performing actions aimed at using the
+Software after the new version of the Agreement takes effect constitutes
+confirmation that the User understands and accepts the new terms of the
+Agreement unconditionally and in full.
+
+7.2. If any provision of this Agreement is held invalid or unenforceable,
+the remaining provisions shall remain in full force and effect.
+
+7.3. The Parties shall maintain the confidentiality of all information
+exchanged between them in connection with the performance of this
+Agreement, regardless of the presence or absence of markings/classifications
+indicating the confidentiality status of the information transferred.
+Disclosure of confidential information within the meaning of this
+Agreement means any action or omission of a Party as a result of which
+confidential information becomes known to third parties without the
+consent of its owner. The form of disclosure of confidential information
+to third parties is irrelevant. Disclosure of confidential information
+pursuant to a lawful demand of law enforcement and other authorized state
+bodies and officials in cases and in the manner provided for by the
+legislation applicable to a Party does not constitute a breach of
+confidentiality.
+Confidentiality obligations apply for an unlimited term.
+
+7.4. This Agreement is made in Russian and English. In the event of
+any inconsistency between the two versions, the Russian version shall
+prevail.
+
+7.5. A Party shall be released from liability for partial or complete
+non-performance of its obligations under the Agreement if it proves that
+due performance was impossible due to force majeure, i.e. extraordinary,
+unforeseen and unavoidable circumstances arising during the performance
+of obligations under the Agreement that could not reasonably have been
+expected upon its conclusion, or avoided or overcome, and that are beyond
+the control of the Parties. Force majeure circumstances include, among
+others, but not limited to: military actions (declared or actual war),
+civil unrest, mass diseases (epidemics, pandemics, etc.), strikes,
+blockades, natural disasters (earthquakes, floods, hurricanes, etc.),
+fire, terrorist acts, sabotage, transport restrictions, prohibitive
+measures of states, trade prohibitions, shutdown of data centers located
+in the territory of the state where a Party is located, disconnection
+from the global Internet, and blocking of servers or connections by
+supervisory authorities. Upon the occurrence of force majeure circumstances
+specified in this Clause, a Party shall notify the other Party in writing
+within 5 (five) calendar days. The notice shall contain information about
+the nature of the circumstances, as well as official documents confirming
+the existence of these circumstances and, where possible, assessing their
+impact on the Party's ability to perform its obligations under the
+Agreement.
+If the force majeure circumstances and their consequences continue
+for more than 2 (two) months, either Party may refuse to perform the
+Agreement, and shall notify the other Party no later than 5 (five)
+calendar days before such refusal.
+
+7.6. The User may not assign its rights or transfer its obligations under
+the Agreement to any third party without the Licensor's prior written
+consent.
+
+7.7. In all other matters not provided for by the Agreement, the Parties
+shall be governed by the applicable laws of the Russian Federation.
+
+7.8. The User may not use the fact of concluding the Agreement for its
+advertising and/or marketing purposes without the Licensor's prior
+written consent. The User agrees not to use the name of JSC
+Raiffeisenbank, not to disclose any information about the relationship
+of the Parties, and not to use any reference to Raiffeisenbank in
+advertising or marketing materials without the prior written consent
+of Raiffeisenbank, with which the form, content and placement of any
+such communication are to be agreed. This restriction does not apply
+to the User's obligation specified in Clause 1.9 of the Agreement.
